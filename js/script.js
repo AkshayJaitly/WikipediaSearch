@@ -1,9 +1,4 @@
-/*
- * Title: Wikipedia Viewer (for FreeCodeCamp), June 2017
- * Author: Boško Rabrenović
- * https://github.com/boniverski/wikipedia-viewer
- * Description: Searching Wikipedia articles and showing its title and first paragraph. Also there's button for random article.
- */
+
 $(document).ready(function () {
 
   //Global variables
